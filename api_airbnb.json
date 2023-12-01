@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Machu Picchu",
+      "url": "https://i.imgur.com/5QJZ0vT.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sacred Valley",
+      "url": "https://i.imgur.com/7zJ4L9H.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lake Titicaca",
+      "url": "https://i.imgur.com/9f5V8Jd.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cusco",
+      "url": "https://i.imgur.com/6j9jJZp.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Arequipa",
+      "url": "https://i.imgur.com/7zJ4L9H.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Paracas",
+      "url": "https://i.imgur.com/9f5V8Jd.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nazca",
+      "url": "https://i.imgur.com/6j9jJZp.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chavín de Huantar",
+      "url": "https://i.imgur.com/5QJZ0vT.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Chan Chan",
+      "url": "https://i.imgur.com/7zJ4L9H.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Huacachina",
+      "url": "https://i.imgur.com/9f5V8Jd.jpg"
+    }
+  ]
+  
